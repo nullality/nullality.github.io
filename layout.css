@@ -65,7 +65,8 @@ background-size: 1800% 1800%;
   font-weight: 500;
   -webkit-text-stroke-width: 0px;
   -webkit-text-stroke-color: grey;
-    
+  letter-spacing: 2px;
+  text-shadow: 2px 2px 3px rgba(255,255,255,0.5);
 }
 
 .app-content {
@@ -110,7 +111,7 @@ background-size: 1800% 1800%;
 }
 
 .item {
-  font-size: 14px;
+  font-size: 24px;
   background-size: 30px 30px;
   background-repeat: no-repeat;
   min-height: 30px;
@@ -126,12 +127,13 @@ background-size: 1800% 1800%;
 .item-container-bot .item {
   background-image: url(i/avatar_bot.svg);
   padding-left: 40px;
+  background-position: left center;
   color: #3D4145;
 }
 
 .item-container-user .item {
   background-image: url(i/avatar_user.svg);
-  background-position: right;
+  background-position: right center;
   padding-right: 40px;
   color: #3498DB;
 }
