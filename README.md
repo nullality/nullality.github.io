@@ -20,5 +20,11 @@ Many people, myself included, suffer from different Stress Disorders. This came 
  - Filling this out more
  - Styles
  - webhooks for services like youtube or weather
+ - cards
+ - ability to transcribe notes / rants.
+ - habit forming conversation points
+ - repack react app / native
+ - put it into headless raspberry pi
+ - put into touch screen enabled raspberry pi
  
  ### [Voicebot by Jaanus](https://github.com/jaanus/voicebot)
