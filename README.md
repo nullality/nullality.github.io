@@ -19,12 +19,13 @@ Many people, myself included, suffer from different Stress Disorders. This came 
  ## What's next?
  - Filling this out more
  - Styles
- - webhooks for services like youtube or weather
- - cards
- - ability to transcribe notes / rants.
- - habit forming conversation points
- - repack react app / native
- - put it into headless raspberry pi
- - put into touch screen enabled raspberry pi
+ - Webhooks for services like Youtube or getting Weather
+ - Cards
+ - Ability to transcribe notes / rants.
+ - Habit forming conversation points
+ - Repack into native app
+ - Repack as Alexa Skill
+ - Put it into headless raspberry pi
+ - Put into touch screen enabled raspberry pi
  
  ### [Voicebot by Jaanus](https://github.com/jaanus/voicebot)
