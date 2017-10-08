@@ -1,47 +1,46 @@
-### Raspberry Pi Part Research / Wishlist.
-------------
-#### Top Choice RPi
+## Raspberry Pi Part Research / Wishlist.
+### Top Choice RPi
 - [**RPi Zero W**](https://www.adafruit.com/product/3400)
 ------------
-#### Top Choice Case
+### Top Choice Case
 - [**Pibow Case**](https://www.adafruit.com/product/3471)
 ------------
-#### Output audio
+### Output audio
 - [**Pimoroni Speaker Phat**](https://www.adafruit.com/product/3401)
 ------------
-#### GPIO Splitter [Not sure if I'll need this]
+### GPIO Splitter [Not sure if I'll need this]
 - [**Multiplexing Hacker**](https://www.adafruit.com/product/3182)
 ------------
-#### Pins
+### Pins
 - [Right-Angle Pins](https://www.adafruit.com/product/2823)
 - [Regular Pins](https://www.adafruit.com/product/2822)
 - [*Solderless Pins*](https://www.adafruit.com/product/3413) (- cute)
 ------------
-#### Mic [Not sure which will work best]
+### Mic [Not sure which will work best]
 - [Tiny USB micro to full](https://www.adafruit.com/product/2910) + [USB Mic](https://www.adafruit.com/product/3367)
 - [Mic Breakout](https://www.adafruit.com/product/2716)
 - [Mic Breakout](https://www.adafruit.com/product/3421)
 - [Mic Amp Breakout](https://www.adafruit.com/product/1063)
 - [Mic Amp Breakout w auto gain](https://www.adafruit.com/product/1713)
 ------------
-#### Power management
+### Power management
 ------------
-#### Batteries
+### Batteries
 ------------
-#### Push Button
+### Push Button
 ------------
-#### On / off Switch ????
+### On / off Switch ????
 ------------
-#### Other RPis
+### Other RPis
 - [RPi 3 B](https://www.adafruit.com/product/3055)
 - [RPi 2 B](https://www.adafruit.com/product/2358)
 ------------
-#### Misc
+### Misc
 - [USB Console Cable](https://www.adafruit.com/product/954)
 - [Passport](https://www.adafruit.com/product/769) (- aww how cute!)
 ------------
 ## Display For future integration with cards.
-#### Displays
+### Displays
 - [Touch Display 3.5"](https://www.adafruit.com/product/2441)
 - [Touch Display 2.8" w buttons](https://www.adafruit.com/product/2423)
 - [Box for 2.8" Touch Display ](https://www.adafruit.com/product/2807)
