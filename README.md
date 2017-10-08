@@ -26,7 +26,7 @@ Many people, myself included, suffer from different Stress Disorders. This came 
  - Put it into headless raspberry pi
  - Put into touch screen enabled raspberry pi
  
-### [RPi Research Wishlist](http://www.github.com/nullality/nullality.github.io/master/RPiList.md)
+### [RPi Research Wishlist](https://github.com/nullality/nullality.github.io/blob/master/RPiList.md)
 
 ### Huge Credit
 #### Original Design - [Voicebot by Jaanus](https://github.com/jaanus/voicebot)
