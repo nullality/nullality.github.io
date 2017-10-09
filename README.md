@@ -17,9 +17,9 @@ Many people, myself included, suffer from different Stress Disorders. This came 
  ## What's next?
  - Filling this out more
  - Styles
- - Extend / Adjust speaking & listening interval
- - diff font sizes for diff screens
- - Make "Stop" button to stop listening or speaking?
+ - Fine tune speaking & listening interval
+ - @media font-sizefor diff screens
+ - Make "Stop" button to stop listening or speaking? / add addEventListener in app.js etc..
  - Webhooks for services like Youtube or getting Weather
  - Cards
  - Ability to transcribe notes / rants.
