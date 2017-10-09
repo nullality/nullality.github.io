@@ -10,7 +10,7 @@ Planning to order (Funds pending):
 ### Output audio
 - [**Pimoroni Speaker Phat**](https://www.adafruit.com/product/3401)    |   **$12.95**
 ------------
-### GPIO Splitter [Not sure if I'll need this]
+### GPIO Splitter [Not sure if I'll need this, but I **want** it.]
 - [**Multiplexing Hacker**](https://www.adafruit.com/product/3182)    |   **$14.95**
 ------------
 ### Pins
