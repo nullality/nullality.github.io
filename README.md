@@ -15,6 +15,7 @@ Many people, myself included, suffer from different Stress Disorders. This came 
  Please feel free to message me with support, comments, suggestions, inquiries, or even donations = p
  
  ## What's next?
+ - Possible Name Change? 
  - Filling this out more
  - Styles
  - Fine tune speaking & listening interval
