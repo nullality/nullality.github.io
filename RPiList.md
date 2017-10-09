@@ -1,24 +1,24 @@
-# Raspberry Pi Part Research / Wishlist.
+## Raspberry Pi Part Research / Wishlist.
 Planning to order (Funds pending): 
 ![Order List](https://lh6.googleusercontent.com/NLvLVU-leTV0m5tPkB9r9ecaIPeYLBn1BopaUEgK56_ywEnS1HRs0JYmHj-Yqn1Lkgh8tM0K=w1488-h766-rw)
-## Top Choice RPi
+### Top Choice RPi
 - [**RPi Zero W**](https://www.adafruit.com/product/3400)   |   **$10.00**
 ------------
-## Top Choice Case
+### Top Choice Case
 - [**Pibow Case**](https://www.adafruit.com/product/3471)   |   **$5.95**
 ------------
-## Output audio
+### Output audio
 - [**Pimoroni Speaker Phat**](https://www.adafruit.com/product/3401)    |   **$12.95**
 ------------
-## GPIO Splitter [Not sure if I'll need this, but I **want** it.]
+### GPIO Splitter [Not sure if I'll need this, but I **want** it.]
 - [**Multiplexing Hacker**](https://www.adafruit.com/product/3182)    |   **$14.95**
 ------------
-## Pins
+### Pins
 - [**Right-Angle Pins**](https://www.adafruit.com/product/2823)   |   **$1.59**
 - [**Regular Pins**](https://www.adafruit.com/product/2822)   |   **$0.95**
 - [*Solderless Pins*](https://www.adafruit.com/product/3413) (lol)   |   **$6.50**
 ------------
-## Mic [Not sure which will work best]
+### Mic [Not sure which will work best]
 - [**Tiny USB micro to full**](https://www.adafruit.com/product/2910)   |   **$2.95** AND [**USB Mic Dongle**](https://www.adafruit.com/product/3367)   |   **$5.95**  
 - [Mic Breakout](https://www.adafruit.com/product/2716)   |   **$4.95**  
 - [Mic Breakout](https://www.adafruit.com/product/3421)   |   **$6.95**  
