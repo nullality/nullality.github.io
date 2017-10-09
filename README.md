@@ -17,11 +17,15 @@ Many people, myself included, suffer from different Stress Disorders. This came 
  ## What's next?
  - Filling this out more
  - Styles
+ - Extend / Adjust speaking & listening interval
+ - diff font sizes for diff screens
+ - Make "Stop" button to stop listening or speaking?
  - Webhooks for services like Youtube or getting Weather
  - Cards
  - Ability to transcribe notes / rants.
  - Habit forming conversation points
  - Repack into native app
+ - Make user adjustable font size settings
  - Repack as Alexa Skill, FB Messenger bot, Google Talk bot or Google Assistant add-on.
  - Put it into headless raspberry pi
  - Put into touch screen enabled raspberry pi
