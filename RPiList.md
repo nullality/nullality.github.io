@@ -1,11 +1,9 @@
 ## Raspberry Pi Part Research / Wishlist.
 ### Top Choice RPi
-- [**RPi Zero W**](https://www.adafruit.com/product/3400)   
-  - $10.00
+- [**RPi Zero W**](https://www.adafruit.com/product/3400)   |   $10.00
 ------------
 ### Top Choice Case
-- [**Pibow Case**](https://www.adafruit.com/product/3471)
-  - $5.95
+- [**Pibow Case**](https://www.adafruit.com/product/3471)   |   $5.95
 ------------
 ### Output audio
 - [**Pimoroni Speaker Phat**](https://www.adafruit.com/product/3401)
