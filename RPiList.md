@@ -1,9 +1,11 @@
 ## Raspberry Pi Part Research / Wishlist.
 ### Top Choice RPi
-- [**RPi Zero W**](https://www.adafruit.com/product/3400)
+- [**RPi Zero W**](https://www.adafruit.com/product/3400)   
+  - $10.00
 ------------
 ### Top Choice Case
 - [**Pibow Case**](https://www.adafruit.com/product/3471)
+  - $5.95
 ------------
 ### Output audio
 - [**Pimoroni Speaker Phat**](https://www.adafruit.com/product/3401)
@@ -20,7 +22,7 @@
 - [**Tiny USB micro to full**](https://www.adafruit.com/product/2910) AND [**USB Mic Dongle**](https://www.adafruit.com/product/3367)
 - [Mic Breakout](https://www.adafruit.com/product/2716)
 - [Mic Breakout](https://www.adafruit.com/product/3421)
-- [*Wiring for breakout mic*](https://learn.adafruit.com/adafruit-i2s-mems-microphone-breakout/raspberry-pi-wiring-and-test)
+  - [*Wiring for breakout mic*](https://learn.adafruit.com/adafruit-i2s-mems-microphone-breakout/raspberry-pi-wiring-and-test)
 - [Mic Amp Breakout](https://www.adafruit.com/product/1063)
 - [Mic Amp Breakout w auto gain](https://www.adafruit.com/product/1713)
 ------------
