@@ -110,7 +110,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
     function handleResponse(serverResponse) {
 
       // Set a timer just in case. so if there was an error speaking or whatever, there will at least be a prompt to continue
-      var timer = window.setTimeout(function() { startListening(); }, 15000);
+      var timer = window.setTimeout(function() { startListening(7000); }, 15000);
 
       const speech = serverResponse["result"]["fulfillment"]["speech"];
       var msg = new SpeechSynthesisUtterance(speech);
