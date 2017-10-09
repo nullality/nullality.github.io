@@ -22,7 +22,7 @@ Many people, myself included, suffer from different Stress Disorders. This came 
  - Ability to transcribe notes / rants.
  - Habit forming conversation points
  - Repack into native app
- - Repack as Alexa Skill
+ - Repack as Alexa Skill, FB Messenger bot, Google Talk bot or Google Assistant add-on.
  - Put it into headless raspberry pi
  - Put into touch screen enabled raspberry pi
  
