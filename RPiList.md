@@ -14,7 +14,7 @@
 ### Pins
 - [**Right-Angle Pins**](https://www.adafruit.com/product/2823)   |   **$1.59**
 - [**Regular Pins**](https://www.adafruit.com/product/2822)   |   **$0.95**
-- [*Solderless Pins*](https://www.adafruit.com/product/3413) (- cute)   |   **$6.50**
+- [*Solderless Pins*](https://www.adafruit.com/product/3413) (lol)   |   **$6.50**
 ------------
 ### Mic [Not sure which will work best]
 - [**Tiny USB micro to full**](https://www.adafruit.com/product/2910)   |   **$2.95** AND [**USB Mic Dongle**](https://www.adafruit.com/product/3367)   |   **$5.95**
@@ -26,7 +26,7 @@
 ------------
 ### Power management + Batteries
 - [Power management board](https://www.adafruit.com/product/3196)   |   **$9.95**
-- [Battery Charger >= ( Yeah it's seperate.](https://www.adafruit.com/product/1904)   |   **$6.95**
+- [Battery Charger](https://www.adafruit.com/product/1904) >= ( Yeah it's seperate.  |   **$6.95**
 - [2200 mAh](https://www.adafruit.com/product/1781)   |   **$9.95**
 ------------
 ### Push Button / Switch
@@ -38,7 +38,7 @@
 ------------
 ### Misc
 - [USB Console Cable](https://www.adafruit.com/product/954)   |   **$9.95**
-- [Passport](https://www.adafruit.com/product/769) (- aww how cute!)   |   **$2.95**
+- [Passport](https://www.adafruit.com/product/769) (aww how cute!)   |   **$2.95**
 - [*Robot with mouth*](https://shop.pimoroni.com/products/scroll-bot-pi-zero-w-project-kit) (Something like this might make it more personable and easier to associate the item as an entity for psychological connectivity).
 ------------
 ## Display For future integration with cards.
