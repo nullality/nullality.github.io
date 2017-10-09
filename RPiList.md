@@ -1,7 +1,6 @@
 ## Raspberry Pi Part Research / Wishlist.
-Planning to order (first): 
+Planning to order (soon): 
 ![Order List](https://lh6.googleusercontent.com/NLvLVU-leTV0m5tPkB9r9ecaIPeYLBn1BopaUEgK56_ywEnS1HRs0JYmHj-Yqn1Lkgh8tM0K=w1488-h766-rw)
-<style>img {margin-bottom:-20px}</style>
 ### Top Choice RPi
 - [**RPi Zero W**](https://www.adafruit.com/product/3400)   |   **$10.00**
 ------------
