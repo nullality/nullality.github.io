@@ -26,6 +26,10 @@ Many people, myself included, suffer from different Stress Disorders. This came 
  - Put it into headless raspberry pi
  - Put into touch screen enabled raspberry pi
  
+ #### Hmmm
+ - Maybe do Python Library too?
+ - Use AIML at all?
+ 
 ### [RPi Research Wishlist](https://github.com/nullality/nullality.github.io/blob/master/RPiList.md)
 
 ### Huge Credit
