@@ -1,5 +1,6 @@
 ## Raspberry Pi Part Research / Wishlist.
-
+Planning to order (first): 
+![Order List](https://lh6.googleusercontent.com/NLvLVU-leTV0m5tPkB9r9ecaIPeYLBn1BopaUEgK56_ywEnS1HRs0JYmHj-Yqn1Lkgh8tM0K=w1488-h766-rw)
 ### Top Choice RPi
 - [**RPi Zero W**](https://www.adafruit.com/product/3400)   |   **$10.00**
 ------------
@@ -51,5 +52,3 @@
 - [Touch Display 2.4"](https://www.adafruit.com/product/2455)   |   **$34.95**
 ------------
 ------------
-Planning to order (first): 
-![Order List](https://lh6.googleusercontent.com/NLvLVU-leTV0m5tPkB9r9ecaIPeYLBn1BopaUEgK56_ywEnS1HRs0JYmHj-Yqn1Lkgh8tM0K=w1488-h766-rw)
