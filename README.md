@@ -25,6 +25,8 @@ Many people, myself included, suffer from different Stress Disorders. This came 
  - Repack as Alexa Skill, FB Messenger bot, Google Talk bot or Google Assistant add-on.
  - Put it into headless raspberry pi
  - Put into touch screen enabled raspberry pi
+ - Design logo, maybe better name
+ - Design website / landing
  
  #### Hmmm
  - Maybe do Python Library too?
