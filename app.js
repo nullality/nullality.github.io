@@ -87,7 +87,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
   const apiClient = new ApiAi.ApiAiClient({accessToken: '52d1e346eb464870aff0ff578ee153bd'});
 
   // Initial feedback message.
-  addBotItem("Hi! I’m voicebot. Tap the microphone and start talking to me.");
+  addBotItem("Hi! I’m Sindy. I'm in development, but feel free to tap the microphone and start talking to me.");
 
   var recognition = new webkitSpeechRecognition();
   var recognizedText = null;
