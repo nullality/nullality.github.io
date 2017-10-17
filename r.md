@@ -1,4 +1,4 @@
-# SinDy V.4
+# SinDy V.4 <img src="/i/Cindyfive.png" width="64">
 
 This bot is being developed. In its current state it is a cute repackaging of Jaanus' Voicebot. I.e. My own [api.ai](https://api.ai) backend and some style changes. I do hope to add quite a bit of code = )
 
@@ -14,7 +14,7 @@ Many people, myself included, suffer from different Stress Disorders that range 
  
  Please feel free to message me with support, comments, suggestions, inquiries, or even donations = p
  
-## What's next?
+ ## What's next?
  - Adding a 'whats been done' section.
  - Filling this out more
  - Adding styles
@@ -32,7 +32,7 @@ Many people, myself included, suffer from different Stress Disorders that range 
  - Put into touch screen enabled raspberry pi? 
  - Design website / landing
  
-### What's been done
+ ### What's been done
  - Design temporary logo
  - Add some styles
  - Redeisgn bot svg
@@ -42,7 +42,7 @@ Many people, myself included, suffer from different Stress Disorders that range 
  - Wrote ~15 pages of dialogue that needs to be transcribed into API.AI / Dialogflow
  - Researching. Researching. Researching.
  
-#### Hmmm
+ #### Hmmm
  - Maybe do Python Library too?
  - Use AIML at all?
  
