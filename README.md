@@ -2,9 +2,9 @@
 
 # SinDy V.4 
 
-This bot is being developed. In its current state it is a cute repackaging of Jaanus' Voicebot. I.e. My own [api.ai](https://api.ai) backend and some style changes. I do hope to add quite a bit of code = )
+This bot is being developed. In its current state it is a cute repackaging of Jaanus' Voicebot. I.e. My own ~~api.ai~~[Dialogflow](https://api.ai) backend and some style changes. I do hope to add quite a bit of code = )
 
-This is a web-based voicebot built with [api.ai](https://api.ai) backend. It implements a static client app, tries to communicate, and can run as a simple web service for doing math.
+This is a web-based voicebot built with ~~api.ai~~[Dialogflow](https://api.ai) backend. It implements a static client app, tries to communicate, and can run as a simple web service for doing math.
 
 ## Demo
 
@@ -58,4 +58,4 @@ Many people, myself included, suffer from different Stress Disorders that range 
 
 ### Huge Credit
 #### Original Design - [Voicebot by Jaanus](https://github.com/jaanus/voicebot)
-#### Backend - [API.ai](https://www.api.ai/)
+#### Backend - ~~api.ai~~ [API.ai](https://www.api.ai/)
