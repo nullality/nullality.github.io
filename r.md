@@ -53,6 +53,7 @@ Many people, myself included, suffer from different Stress Disorders that range 
 - Made a custom enclosure.
 - Got linux working, soldered GPIO pins, getting sound through pHat intermittently. 
 > Might be a short in the speaker. I need to salvage a small speaker from goodwill.  
+
 ~~[RPi Research Wishlist](https://github.com/nullality/nullality.github.io/blob/master/RPiList.md)~~
 
 ### Huge Credit
