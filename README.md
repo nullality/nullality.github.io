@@ -1,4 +1,4 @@
-<img src="/i/Cindyfive.png" width="64">
+<img src="/i/Cindyfive.png" width="129">
 
 # SinDy V.4 
 
