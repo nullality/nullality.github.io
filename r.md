@@ -16,7 +16,7 @@ Many people, myself included, suffer from different Stress Disorders that range 
  
  Please feel free to message me with support, comments, suggestions, inquiries, or even donations = p
  
- ## What's next?
+## What's next?
  - Adding a 'whats been done' section.
  - Filling this out more
  - Adding styles
@@ -34,7 +34,7 @@ Many people, myself included, suffer from different Stress Disorders that range 
  - Put into touch screen enabled raspberry pi? 
  - Design website / landing
  
- ### What's been done
+### What's been done
  - Design temporary logo
  - Add some styles
  - Redeisgn bot svg
@@ -44,7 +44,7 @@ Many people, myself included, suffer from different Stress Disorders that range 
  - Wrote ~15 pages of dialogue that needs to be transcribed into API.AI / Dialogflow
  - Researching. Researching. Researching.
  
- #### Hmmm
+#### Hmmm
  - Maybe do Python Library too?
  - Use AIML at all?
  
