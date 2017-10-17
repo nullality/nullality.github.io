@@ -1,10 +1,10 @@
-<img src="/i/Cindyfive.png" width="128">
- 
+<img src="/i/Cindyfive.png" width="129">
+
 # SinDy V.4 
 
-This bot is being developed. In its current state it is a cute repackaging of Jaanus' Voicebot. I.e. My own [api.ai](https://api.ai) backend and some style changes. I do hope to add quite a bit of code = )
+This bot is being developed. In its current state it is a cute repackaging of Jaanus' Voicebot. I.e. My own ~~api.ai~~ [Dialogflow](https://api.ai) backend and some style changes. I do hope to add quite a bit of code = )
 
-This is a web-based voicebot built with [api.ai](https://api.ai) backend. It implements a static client app, tries to communicate, and can run as a simple web service for doing math.
+This is a web-based voicebot built with ~~api.ai~~ [Dialogflow](https://api.ai) backend. It implements a static client app, tries to communicate, and can run as a simple web service for doing math.
 
 ## Demo
 
@@ -16,7 +16,7 @@ Many people, myself included, suffer from different Stress Disorders that range 
  
  Please feel free to message me with support, comments, suggestions, inquiries, or even donations = p
  
-## What's next?
+ ## What's next?
  - Adding a 'whats been done' section.
  - Filling this out more
  - Adding styles
@@ -34,7 +34,7 @@ Many people, myself included, suffer from different Stress Disorders that range 
  - Put into touch screen enabled raspberry pi? 
  - Design website / landing
  
-### What's been done
+ ### What's been done
  - Design temporary logo
  - Add some styles
  - Redeisgn bot svg
@@ -44,7 +44,7 @@ Many people, myself included, suffer from different Stress Disorders that range 
  - Wrote ~15 pages of dialogue that needs to be transcribed into API.AI / Dialogflow
  - Researching. Researching. Researching.
  
-#### Hmmm
+ #### Hmmm
  - Maybe do Python Library too?
  - Use AIML at all?
  
@@ -52,10 +52,10 @@ Many people, myself included, suffer from different Stress Disorders that range 
 - Purchased and received Raspberry Pi zero w.
 - Made a custom enclosure.
 - Got linux working, soldered GPIO pins, getting sound through pHat intermittently. 
-> Might be a short in the speaker. I need to salvage a small speaker from goodwill.  
+> Might be a short in the speaker. I need to salvage a small speaker from goodwill.
 
 ~~[RPi Research Wishlist](https://github.com/nullality/nullality.github.io/blob/master/RPiList.md)~~
 
 ### Huge Credit
 #### Original Design - [Voicebot by Jaanus](https://github.com/jaanus/voicebot)
-#### Backend - [API.ai](https://www.api.ai/)
+#### Backend - ~~api.ai~~ [API.ai](https://www.api.ai/)
