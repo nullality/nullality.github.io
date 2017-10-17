@@ -1,4 +1,4 @@
-<img src="/i/Cindyfive.png" width="64">
+ <img src="/i/Cindyfive.png" width="128">
 # SinDy V.4 
 
 This bot is being developed. In its current state it is a cute repackaging of Jaanus' Voicebot. I.e. My own [api.ai](https://api.ai) backend and some style changes. I do hope to add quite a bit of code = )
