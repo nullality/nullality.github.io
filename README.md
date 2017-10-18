@@ -1,6 +1,6 @@
 <img src="/i/Cindyfive.png" width="129">
 
-# SinDy V.4 
+# SinDy V.5 
 
 This bot is being developed. In its current state it is a cute repackaging of Jaanus' Voicebot. I.e. My own ~~api.ai~~ [Dialogflow](https://api.ai) backend and some style changes. I do hope to add quite a bit of code = )
 
