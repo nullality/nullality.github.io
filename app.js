@@ -1,5 +1,3 @@
-
-
 function gotoListeningState() {
   const micListening = document.querySelector(".mic .listening");
   const micReady = document.querySelector(".mic .ready");
@@ -51,10 +49,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
   displayCurrentTime();
 
   // check for Chrome
-  if (!isChrome()) {
-    addError("This demo only works in Google Chrome.");
-    return;
-  }
 
   if (!('speechSynthesis' in window)) {
     addError("Your browser doesn’t support speech synthesis. This demo won’t work.");
