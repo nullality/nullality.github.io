@@ -14,9 +14,10 @@ This is running at [nullality.github.io](https://nullality.github.io)
 
 Many people, myself included, suffer from different Stress Disorders that range from PTSD to General Anxiety. This project came from a real world need. I hope to apply natural language coding, and multiple technologies into a fully packaged form with varying range of portability and form solidarity. While it may not work 'out-the-box' entirely for everyone, or anyone for a while, my goal is to help achieve an assistive AI that can help others in [but not limited to] grounding, disengaging, coping, identifying triggers and even building better habits. I'm not sure where this project will take me, but I'll say my plan is to take it a lot further than just an app.
  
- Please feel free to message me with support, comments, suggestions, inquiries, or even donations = p
+ Please feel free to message me with support, comments, suggestions, inquiries, or even donations = p I'd love help.
  
  ## What's next?
+ - Update the fuck out of this. 
  - Adding a 'whats been done' section.
  - Filling this out more
  - Adding styles
@@ -35,6 +36,8 @@ Many people, myself included, suffer from different Stress Disorders that range 
  - Design website / landing
  
  ### What's been done
+ - Removed chrome authentication in app.js. For whatever reason mobile chrome on oreo was not verifying as chrome so fuuckkiiitt..
+   It will still verify if you have speech synthesis, etc.. but at least it won't get denied just for chrome.
  - Design temporary logo
  - Add some styles
  - Redeisgn bot svg
