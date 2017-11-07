@@ -62,10 +62,11 @@ Many people suffer from different __stress disorders__ ranging from PTSD to Gene
 
 ## General 'What's next'?
 
-### Sindys' Conversation Capabilities:
- * Learn your name, or hold small bits of preferencial information.
- * Transcribe / save notes
- * Webhooks i.e. Youtube, 'smarter' weather, calendar(?)
+### Sindys' Conversation Capabilities:  
+ * Learn your name, or hold small bits of preferencial information.  
+ * Transcribe / save notes  
+ * Webhooks i.e. Youtube, 'smarter' weather, calendar(?)  
+ * More Entities, More Contexts.  
 ### __1:__ 
  * Create multiple interval for listening events
  * Create 'stop' button for Sindy to STFU
