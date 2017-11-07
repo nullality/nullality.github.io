@@ -25,7 +25,8 @@ Many people suffer from different __stress disorders__ ranging from PTSD to Gene
 * __4 :__  Configure extensions  
   * __A :__ Alexa Skill
   * __B :__ Facebook Messenger Bot
-  * __C :__ Slack Messenger Bot 
+  * __C :__ Slack Messenger Bot   
+  
 ### Goals for Sindys' Capabilities
  * Recognizes your voice, responds.
  * Relief
@@ -60,33 +61,38 @@ Many people suffer from different __stress disorders__ ranging from PTSD to Gene
     	   * e.g. What texture do you feel? Something else, is it colder? smoother? continue for 5 instances.
 ----------
 
-## General 'What's next'?
+## General 'What's next'?  
 
-### Sindys' Conversation Capabilities:
+### Sindys' Conversation Capabilities:  
  * Learn your name, or hold small bits of preferencial information.
  * Transcribe / save notes
- * Webhooks i.e. Youtube, 'smarter' weather, calendar(?)
-### __1:__ 
+ * Webhooks i.e. Youtube, 'smarter' weather, calendar(?)  
+ 
+### __1:__  
  * Create multiple interval for listening events
  * Create 'stop' button for Sindy to STFU
  * Proper Cards for display of image/link?  
- * Adding more style code
-### __2:__  
+ * Adding more style code  
+ 
+### __2:__  
  * Start Building.  
+ 
 ### __3.A:__   
 * Create Startup / Shutdown scripts
 * Change identifier from 'Okay Google' to 'Okay Sindy' or 'I need help!'
 * Get a better power supply
 * Be able to: Boot, run headless, run Sindy, shut down on command.  
+
 ### __3.B:__  
 * Mimic __3.A__ 
 * assign GPIO for button / create route for identifier / add addEventListener in app.js etc..   
+
 ### __4:__  
 * Start Building  
 
 ------------
  
- ### Version /  Deployment Status.
+ ### Version /  Deployment Status.  
  * __V.69__ Just after my Birthday 'Break'
  	* Added simple weather webhook only does weather today, must have location in query.
  	* GA Update
