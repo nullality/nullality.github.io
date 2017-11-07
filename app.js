@@ -24,6 +24,7 @@ function addUserItem(text) {
   const appContent = document.querySelector(".app-content");
   appContent.innerHTML += '<div class="time-indicator"><div class="time-indicator-content">8:20</div><hr /></div>'
  + '<div class="item-container item-container-user"><div class="item"><p>' + text + '</p></div></div>';
+  displayCurrentTime();
   appContent.scrollTop = appContent.scrollHeight; // scroll to bottom
 }
 
