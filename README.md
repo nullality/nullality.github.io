@@ -94,7 +94,7 @@ Many people suffer from different __stress disorders__ ranging from PTSD to Gene
 	* Removed chrome authentication in app.js. For whatever reason mobile chrome on oreo was not verifying as chrome so fuuckkiiitt..
    It will still verify if you have speech synthesis, etc.. but at least it won't get denied just for chrome.
 	* Update to __3.A__ Purchased, received, set up RPi 3(B) with Google AIY Board and Dev Kit
-		* Assembled, running, works with initial response and button tests.
+		* Assembled, running, works with initial identifier "Okay Google" and button tests. Communicates.
 		
 	* Update to __3.B__ mimicing movements of __3.A__ except sometimes it doesn't go as well lol.
 	* Rewrote README files.
