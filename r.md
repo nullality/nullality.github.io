@@ -4,9 +4,6 @@
 
 This project is being developed. This is a web-based voicebot built with ~~api.ai~~ [Dialogflow](https://api.ai) backend. It implements a static client app, and tries to communicate through natural language dialog and webhook interface.
 
-
-
-
 ## Demo
 
 This is running at [nullality.github.io](https://nullality.github.io)
@@ -33,7 +30,7 @@ Many people suffer from different __stress disorders__ ranging from PTSD to Gene
  * Recognizes your voice, responds.
  * Relief
    * Plain old Distraction
-     * Small Talk
+     * Small Talk 
      * Webhooks for Videos / app suggestions
    * Venting
      * Record note entry
@@ -68,7 +65,7 @@ Many people suffer from different __stress disorders__ ranging from PTSD to Gene
 ### Sindys' Conversation Capabilities:
  * Learn your name, or hold small bits of preferencial information.
  * Transcribe / save notes
- * Webhooks i.e. Youtube, Weather, calendar(?)
+ * Webhooks i.e. Youtube, 'smarter' weather, calendar(?)
 ### __1:__ 
  * Create multiple interval for listening events
  * Create 'stop' button for Sindy to STFU
@@ -91,8 +88,9 @@ Many people suffer from different __stress disorders__ ranging from PTSD to Gene
  
  ### Version /  Deployment Status.
  * __V.69__ Just after my Birthday 'Break'
+ 	* Added simple weather webhook only does weather today, must have location in query.
  	* GA Update
-	* Added CTreply Current Time Display - Doesn't fuckign work after first reply.
+	* Added .CTreply Timestamp - Doesn't fuckign work after first reply.
 	* Testing Sindy, using test subjects to refine context and flows.
 	* Removed chrome authentication in app.js. For whatever reason mobile chrome on oreo was not verifying as chrome so fuuckkiiitt..
    It will still verify if you have speech synthesis, etc.. but at least it won't get denied just for chrome.
