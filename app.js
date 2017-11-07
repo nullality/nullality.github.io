@@ -20,18 +20,18 @@ function addBotItem(text) {
   appContent.scrollTop = appContent.scrollHeight; // scroll to bottom
 }
 
-function displayCurrentTimeReply() {
+function displayCTReply() {
   const timeContent = document.querySelector(".time-indicator-content-2");
   const d = new Date();
   const s = d.toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
   timeContent.innerHTML = s;
 }
+var timeStampp = '<div class="time-indicator-2"><div class="time-indicator-content-2"></div><hr /></div>';
 
 function addUserItem(text) {
   const appContent = document.querySelector(".app-content");
-  appContent.innerHTML += '<div class="time-indicator-2"><div class="time-indicator-content-2">8:20</div><hr /></div>'
- + '<div class="item-container item-container-user"><div class="item"><p>' + text + '</p></div></div>';
-  displayCurrentTimeReply();
+  appContent.innerHTML += timeStampp + '<div class="item-container item-container-user"><div class="item"><p>' + text + '</p></div></div>';
+  displayCTReply();
   appContent.scrollTop = appContent.scrollHeight; // scroll to bottom
 }
 
@@ -136,6 +136,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
   startButton.addEventListener("click", function(ev) {
     ga('send', 'event', 'Button', 'click');
     startListening();
+    displayCTReply();
     ev.preventDefault();
   });
 
