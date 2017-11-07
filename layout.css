@@ -98,6 +98,17 @@ background-size: 1800% 1800%;
   opacity: 0.64;
 }
 
+.time-indicator-2 .time-indicator-content-2 {
+   margin-bottom: 16px;
+   float:right;
+   margin-left: auto;
+   margin-right: auto;
+   color: #26292C;
+   font-size: 12px;
+   font-weight: 600;
+   opacity: 0.64;
+ }
+
 .item-container {
   display: flex;
 }
