@@ -129,7 +129,7 @@ Many people suffer from different __stress disorders__ ranging from PTSD to Gene
 ## Android Apps I used for resources / inspiration. 
  * AFA Grounding by Boud Digital
  * Break Free by Abele Apps
-
+ * PTSD Coach by US Dept of Veterans Affairs (VA)
 
 ### Huge Credit
 #### Original Design - [Voicebot by Jaanus](https://github.com/jaanus/voicebot)
