@@ -91,6 +91,9 @@ Many people suffer from different __stress disorders__ ranging from PTSD to Gene
  
  ### Version /  Deployment Status.
  * __V.69__ Just after my Birthday 'Break'
+ 	* GA Update
+	* Added CTreply Current Time Display - Doesn't fuckign work after first reply.
+	* Testing Sindy, using test subjects to refine context and flows.
 	* Removed chrome authentication in app.js. For whatever reason mobile chrome on oreo was not verifying as chrome so fuuckkiiitt..
    It will still verify if you have speech synthesis, etc.. but at least it won't get denied just for chrome.
 	* Update to __3.A__ Purchased, received, set up RPi 3(B) with Google AIY Board and Dev Kit
