@@ -20,6 +20,13 @@ function addBotItem(text) {
   appContent.scrollTop = appContent.scrollHeight; // scroll to bottom
 }
 
+function displayCurrentTimeReply() {
+  const timeContent = document.querySelector(".time-indicator-content-2");
+  const d = new Date();
+  const s = d.toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
+  timeContent.innerHTML = s;
+}
+
 function addUserItem(text) {
   const appContent = document.querySelector(".app-content");
   displayCurrentTime();
