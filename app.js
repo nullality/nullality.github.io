@@ -22,14 +22,21 @@ function addBotItem(text) {
 
 function addUserItem(text) {
   const appContent = document.querySelector(".app-content");
-  appContent.innerHTML += '<div class="time-indicator"><div class="time-indicator-content">8:20</div><hr /></div>'
+  displayCurrentTimeReply();
+  appContent.innerHTML += '<div class="time-indicator"><div class="time-indicator-content-2">8:20</div><hr /></div>'
  + '<div class="item-container item-container-user"><div class="item"><p>' + text + '</p></div></div>';
-  displayCurrentTime();
   appContent.scrollTop = appContent.scrollHeight; // scroll to bottom
 }
 
 function displayCurrentTime() {
   const timeContent = document.querySelector(".time-indicator-content");
+  const d = new Date();
+  const s = d.toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
+  timeContent.innerHTML = s;
+}
+
+function displayCurrentTimeReply() {
+  const timeContent = document.querySelector(".time-indicator-content-2");
   const d = new Date();
   const s = d.toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
   timeContent.innerHTML = s;
