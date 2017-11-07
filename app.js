@@ -20,23 +20,23 @@ function addBotItem(text) {
   appContent.scrollTop = appContent.scrollHeight; // scroll to bottom
 }
 
+function displayCurrentTimeReply() {
+  const timeContent = document.querySelector(".time-indicator-content-2");
+  const d = new Date();
+  const s = d.toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
+  timeContent.innerHTML = s;
+}
+
 function addUserItem(text) {
   const appContent = document.querySelector(".app-content");
   displayCurrentTimeReply();
-  appContent.innerHTML += '<div class="time-indicator"><div class="time-indicator-content-2">8:20</div><hr /></div>'
+  appContent.innerHTML += '<div class="time-indicator-2"><div class="time-indicator-content-2">8:20</div><hr /></div>'
  + '<div class="item-container item-container-user"><div class="item"><p>' + text + '</p></div></div>';
   appContent.scrollTop = appContent.scrollHeight; // scroll to bottom
 }
 
 function displayCurrentTime() {
   const timeContent = document.querySelector(".time-indicator-content");
-  const d = new Date();
-  const s = d.toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
-  timeContent.innerHTML = s;
-}
-
-function displayCurrentTimeReply() {
-  const timeContent = document.querySelector(".time-indicator-content-2");
   const d = new Date();
   const s = d.toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
   timeContent.innerHTML = s;
